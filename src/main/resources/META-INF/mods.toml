@@ -1,0 +1,10 @@
+modLoader="javafml" #mandatory
+loaderVersion="[28,)" #mandatory
+credits="I credit mysefl" #optional
+[[mods]] #mandatory
+modId="dardos_extra_discs" #mandatory
+version="1.0" #mandatory
+displayName="Dardo's Extra Discs" #mandatory
+description='''
+Making the dicks DISKS
+'''
